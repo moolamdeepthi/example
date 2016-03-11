@@ -7,6 +7,7 @@ public class firstex {
 
 		System.out.println("Hi git");
 		System.out.println("Hello git ");
+		System.out.println("hi local");
 	}
 
 }
