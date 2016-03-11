@@ -6,7 +6,7 @@ public class firstex {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hi git");
-		
+		System.out.println("Hello git ");
 	}
 
 }
